@@ -1,0 +1,11 @@
+Football project:
+Multi-tabs: Individual Team:  Select a team
+                              Graph of leagues over season
+                              Graph of average goals for and against per season
+            Team vs Team:     Pick two teams
+                              View stats season on season
+                              Goals for and against
+                              Average cards, fouls
+            League Stats:     Pick a leagues
+                              View average goals for and against per games
+                              View average cards, fouls
